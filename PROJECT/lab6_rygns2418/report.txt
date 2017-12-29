@@ -1,0 +1,53 @@
+******lab6-2.c is final C File***
+
+
+
+rygns2418@rygns2418-VirtualBox:~/COMP3120/PROJECT/lab6_rygns2418$ nano lab6-2.c
+rygns2418@rygns2418-VirtualBox:~/COMP3120/PROJECT/lab6_rygns2418$ gcc -o lab6-2 lab6-2.c -lpthread
+rygns2418@rygns2418-VirtualBox:~/COMP3120/PROJECT/lab6_rygns2418$ ./lab6-2 1
+CPU usage time : 20 milisecond 
+
+VmSize:	  119928 kB
+
+CPU usage time : 20 milisecond 
+
+VmSize:	  119928 kB
+
+CPU usage time : 20 milisecond 
+
+VmSize:	  119928 kB
+
+CPU usage time : 20 milisecond 
+
+VmSize:	  119928 kB
+
+CPU usage time : 20 milisecond 
+
+VmSize:	  119928 kB
+
+CPU usage time : 20 milisecond 
+
+VmSize:	  119928 kB
+
+CPU usage time : 20 milisecond 
+
+VmSize:	  119928 kB
+
+CPU usage time : 20 milisecond 
+
+VmSize:	  119928 kB
+
+CPU usage time : 20 milisecond 
+
+VmSize:	  119928 kB
+
+CPU usage time : 20 milisecond 
+
+VmSize:	  119928 kB
+
+CPU usage time : 20 milisecond 
+
+VmSize:	  119928 kB
+
+^C
+
